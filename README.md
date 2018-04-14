@@ -21,9 +21,9 @@ dropout = 0.2 from prevent overfitting
 no_of_epochs = 50
 
 -> It took 17.48 hours for entire program to complete. My laptop configuration is :
-GPU- Nvidia Geforce 940-MX(4GB)
-RAM - 4GB
-processor - Intel Core i5 6200
+- GPU- Nvidia Geforce 940-MX(4GB)
+- RAM - 4GB
+- processor - Intel Core i5 6200
 
 # Result
 ```

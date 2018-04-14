@@ -27,7 +27,7 @@ no_of_epochs = 50
 
 # Result
 ```
-### Loss : 0.2421 
-### Accuracy : 0.9126 
+Loss : 0.2421 
+Accuracy : 0.9126 
 
 ```

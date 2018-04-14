@@ -14,16 +14,21 @@ Layer Sequence
 [Input (64, 64, 3)] -> [Conv (128)] -> [Pool]  ->[Conv (128)] -> [Pool]  ->  [Full (128)] -> [Full (1)] -> [Output]
 ```
 
-Convolution layer Filter size = 3 X 3
-Max pool uses size of 2 X 2
-learning rate = 0.001 
-dropout = 0.2 from prevent overfitting
-no_of_epochs = 50
+- Convolution layer Filter size = 3 X 3
+- Max pool uses size of 2 X 2
+- learning rate = 0.001 
+- dropout = 0.2 from prevent overfitting
+- no_of_epochs = 50
+- train_test_split = 80%-20%
+
 
 -> It took 17.48 hours for entire program to complete. My laptop configuration is :
+- Microsoft Windows 10
 - GPU- Nvidia Geforce 940-MX(4GB)
 - RAM - 4GB
-- processor - Intel Core i5 6200
+- Processor - Intel Core i5 6200 @ 2.8 - 3.0 GHz
+- Tensorlfow version = 1.7
+- Keras use as tensorflow backend
 
 # Result
 ```

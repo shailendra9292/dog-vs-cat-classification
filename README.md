@@ -10,9 +10,10 @@ The idea was taken from [https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edi
 This is simple model which uses 1 conv layer and 2 Fully connected layers at the last.
  
 Layer Sequence
-`
+```
 [Input (64, 64, 3)] -> [Conv (128)] -> [Pool]  ->[Conv (128)] -> [Pool]  ->  [Full (128)] -> [Full (1)] -> [Output]
-`
+```
+
 Convolution layer Filter size = 3 X 3
 Max pool uses size of 2 X 2
 learning rate = 0.001 

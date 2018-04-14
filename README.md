@@ -7,7 +7,7 @@ The idea was taken from [https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edi
 
 # Model Implementation
 
-This is simple model which uses 1 conv layer and 2 Fully connected layers at the last.
+This is simple model which uses 2 conv layer, 2 Maxpool layer and 2 Fully connected layers at the last.
  
 Layer Sequence
 ```

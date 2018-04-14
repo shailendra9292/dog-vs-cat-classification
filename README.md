@@ -33,6 +33,6 @@ Layer Sequence
 # Result
 ```
 Loss : 0.2421 
-Accuracy : 0.9126 
+Accuracy : 0.9526 
 
 ```

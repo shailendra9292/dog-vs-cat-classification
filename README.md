@@ -22,7 +22,7 @@ Layer Sequence
 - train_test_split = 80%-20%
 
 
--> Total time taken 17.48 hours for entire program to execute. Laptop configuration is :
+-> Total time taken 25.48 hours for entire program to execute. Laptop configuration is :
 - Microsoft Windows 10
 - GPU- Nvidia Geforce 940-MX(4GB)
 - RAM - 4GB
